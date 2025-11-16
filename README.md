@@ -1,4 +1,4 @@
-README - StudentName_ArchitectureAnalysis
+README - ArchitectureAnalysis
 ========================================
 
 This folder contains the deliverables for the Backend Architecture Decision Task.
